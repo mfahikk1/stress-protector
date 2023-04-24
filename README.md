@@ -11,6 +11,8 @@
 
 
 ## Overview
+- Download the stress-protector file and run jupyter notebook file Stress_Protector.ipynb.
+- Set the file path to where you download dataset file.
 - Dataset for Stress_Protector.ipynb file available in the same github repository as merged_data_labeled.csv
 
 Users should be able to:
