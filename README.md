@@ -6,61 +6,39 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 - [Conclusions](#conclusions)
 
 
 ## Overview
-
-### The challenge
+- Dataset for Stress_Protector.ipynb file available in the same github repository as merged_data_labeled.csv
 
 Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+- Predict the stress 
 
 ### Links
 
-- Solution URL: [https://github.com/mfahikk1/NFTPreviewCardComponent](https://github.com/mfahikk1/NFTPreviewCardComponent)
-- Live Site URL: [https://mfahikk1.github.io/NFTPreviewCardComponent/](https://mfahikk1.github.io/NFTPreviewCardComponent/)
+- Solution URL: [https://github.com/mfahikk1/stress-protector](https://github.com/mfahikk1/stress-protector)
+- Live Site URL: [A multimodal sensor dataset for continuous stress detection of nurses in a hospital](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9159985/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS properties
-- Flexbox
-- Responsive
-
-### What I learned
-
-I have learned, that I should always add landmarks. I have experienced flexbox properties and learned padding, and margin concepts by changing there values from time to time. 
-
-### Continued development
-
-For future projects, I expect to learn more CSS styling and how properties work such as z-indexing, transition, transform etc. 
-
-### Useful resources
-
-- [Example resource 1](https://www.youtube.com/watch?v=9bGbykdR4T8) - This helped me for reminding what I am forgetting.
+- Python
+- Jupyter notebook
 
 ## Author
 
-- Website - [Mohomed Fahik](https://www.your-site.com)
-- Frontend Mentor - [@mfahikk1](https://www.frontendmentor.io/profile/mfahikk1)
-
-
-## Acknowledgments
-
-I have used tsbsankara video explanation to compare my solution and identify the missing properties in contents.
+- Website - [Mohomed Fahik](https://mfahikk1.github.io/fahik-portfolio/)
 
 ## Conclusions
 
 Are these signals useful for predicting stress? 
+Yes
+
 Can the company guarantee good performance to the hospital and go ahead with this contract? 
-Do you have any other insights from the data that can help the company in the future
+Need to use more feature to get a good performance
+
+Do you have any other insights from the data that can help the company in the future?
+To minimize the errors company should look into more data such as patients, environment etc.
