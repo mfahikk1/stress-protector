@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/mfahikk1/stress-protector](https://github.com/mfahikk1/stress-protector)
-- Live Site URL: [A multimodal sensor dataset for continuous stress detection of nurses in a hospital](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9159985/)
+- Research Site URL: [A multimodal sensor dataset for continuous stress detection of nurses in a hospital](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9159985/)
 
 ## My process
 
